@@ -1,4 +1,4 @@
-# Basic MERN Stack App
+# Basic Rizq MERN Stack App
 <img src="https://github.com/gispatial/mern-stack-app/blob/master/devtools.png" width="100%">
 #### To debug this using Chrome Devtools Extensions please CMD + Option + J with your machine
 
