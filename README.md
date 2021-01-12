@@ -1,6 +1,7 @@
 # Basic MERN Stack App
 <img src="https://github.com/gispatial/mern-stack-app/blob/master/devtools.png" width="100%">
-to debug this using Chrome Devtools Extensions please CMD + Option + J with your machine
+#### To debug this using Chrome Devtools Extensions please CMD + Option + J with your machine
+
 ### Front-End - React + Redux
 
 ### Back-End - Node.js, Express.js & MongoDB
