@@ -1,4 +1,5 @@
 # Basic MERN Stack App
+<img src="https://github.com/gispatial/mern-stack-app/blob/master/devtools.png" width="100%">
 
 ### Front-End - React + Redux
 
